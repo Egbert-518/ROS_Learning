@@ -6,4 +6,4 @@
 - 学习catkin相关知识, 包括CMakeList与package.xml的编写
 - 学习使用rqt工具
 - 学习tf的知识, 能够发布、监听tf, 并能够使用库函数计算不同坐标系下的坐标变换
-- ROS官方教程:  [http://wiki.ros.org/ROS/Tutorials](http://wiki.ros.org/ROS/Tutorials)
+- [ROS官方教程](http://wiki.ros.org/ROS/Tutorials)
